@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nu_shell.iml" filepath="$PROJECT_DIR$/nu_shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/nu_shell_android.iml" filepath="$PROJECT_DIR$/android/nu_shell_android.iml" />
+    </modules>
+  </component>
+</project>
