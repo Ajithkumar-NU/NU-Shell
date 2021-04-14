@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362859355633",
+    "project_id": "nu-shell",
+    "storage_bucket": "nu-shell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362859355633:android:664fb781da2c3a6d4f7850",
+        "android_client_info": {
+          "package_name": "com.example.nu_shell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362859355633-324du13dgub4tlhsf2uoui7dp1lhglnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nu_shell",
+            "certificate_hash": "cd03d003e21b5c6d4d5a98b7557b451619e329ad"
+          }
+        },
+        {
+          "client_id": "362859355633-b2anbogko0kpifs9oh13s6ti6jet0bu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNj0P2ysM_ywLX7Sa9XvYrRI7YrDuqbKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362859355633-b2anbogko0kpifs9oh13s6ti6jet0bu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
