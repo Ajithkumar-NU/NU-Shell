@@ -112,8 +112,8 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
           ),
-          SizedBox(width: 20),
-          _icon(Icons.filter_list, color: Colors.black54)
+          // SizedBox(width: 20),
+          // _icon(Icons.filter_list, color: Colors.black54)
         ],
       ),
     );

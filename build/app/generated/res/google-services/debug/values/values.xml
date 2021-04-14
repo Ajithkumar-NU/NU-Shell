@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">362859355633-b2anbogko0kpifs9oh13s6ti6jet0bu7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">362859355633</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNj0P2ysM_ywLX7Sa9XvYrRI7YrDuqbKk</string>
+    <string name="google_app_id" translatable="false">1:362859355633:android:664fb781da2c3a6d4f7850</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNj0P2ysM_ywLX7Sa9XvYrRI7YrDuqbKk</string>
+    <string name="google_storage_bucket" translatable="false">nu-shell.appspot.com</string>
+    <string name="project_id" translatable="false">nu-shell</string>
+</resources>

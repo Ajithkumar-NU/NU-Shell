@@ -1,4 +1,7 @@
-#Wed Apr 14 16:05:02 IST 2021
+#Wed Apr 14 17:25:38 IST 2021
 base.0=C\:\\Users\\KARTHIKEYA\\UN NAMMED\\Visual Studio Projects\\Others\\nu_shell\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=C\:\\Users\\KARTHIKEYA\\UN NAMMED\\Visual Studio Projects\\Others\\nu_shell\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
