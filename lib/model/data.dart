@@ -1,5 +1,5 @@
-import '../model/category.dart';
-import '../model/product.dart';
+import 'category.dart';
+import 'product.dart';
 
 class AppData {
   static List<Product> productList = [

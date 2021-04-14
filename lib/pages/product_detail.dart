@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-
-import '../model/data.dart';
-import '../themes/theme.dart';
-import '../themes/light_color.dart';
-import '../widgets/title_text.dart';
+import 'package:nu_shell/model/data.dart';
+import 'package:nu_shell/themes/light_color.dart';
+import 'package:nu_shell/themes/theme.dart';
+import 'package:nu_shell/widgets/title_text.dart';
 
 class ProductDetailPage extends StatefulWidget {
   ProductDetailPage({Key key}) : super(key: key);

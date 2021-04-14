@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:nu_shell/themes/light_color.dart';
+import 'package:nu_shell/themes/theme.dart';
+import 'package:nu_shell/widgets/BottomNavigationBar/bottom_navigation_bar.dart';
+import 'package:nu_shell/widgets/title_text.dart';
 
-import '../pages/home_page.dart';
-import '../themes/light_color.dart';
-import '../themes/theme.dart';
-import '../pages/shopping_cart_page.dart';
-import '../widgets/BottomNavigationBar/bottom_navigation_bar.dart';
-import '../widgets/title_text.dart';
-import '../widgets/extentions.dart';
+import 'home_page.dart';
+import 'shopping_cart_page.dart';
 
 class MainPage extends StatefulWidget {
   MainPage({Key key, this.title}) : super(key: key);
@@ -43,7 +42,7 @@ class _MainPageState extends State<MainPage> {
               ),
               child: Image.asset("assets/user.png"),
             ),
-          ).ripple(() {}, borderRadius: BorderRadius.all(Radius.circular(13)))
+          )
         ],
       ),
     );
@@ -60,7 +59,7 @@ class _MainPageState extends State<MainPage> {
         icon,
         color: color,
       ),
-    ).ripple(() {}, borderRadius: BorderRadius.all(Radius.circular(13)));
+    );
   }
 
   Widget _title() {
@@ -73,7 +72,7 @@ class _MainPageState extends State<MainPage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 TitleText(
-                  text: isHomePageSelected ? 'Available' : 'Shopping',
+                  text: isHomePageSelected ? 'Our' : 'Shopping',
                   fontSize: 27,
                   fontWeight: FontWeight.w400,
                 ),
@@ -92,8 +91,7 @@ class _MainPageState extends State<MainPage> {
                       Icons.delete_outline,
                       color: LightColor.orange,
                     ),
-                  ).ripple(() {},
-                    borderRadius: BorderRadius.all(Radius.circular(13)))
+                  )
                 : SizedBox()
           ],
         ));

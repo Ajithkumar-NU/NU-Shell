@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:nu_shell/themes/light_color.dart';
+import 'package:nu_shell/themes/theme.dart';
+import 'package:nu_shell/model/category.dart';
 
-import '../model/category.dart';
-import '../themes/light_color.dart';
-import '../themes/theme.dart';
-import '../widgets/title_text.dart';
-import '../widgets/extentions.dart';
+import 'title_text.dart';
 
 class ProductIcon extends StatelessWidget {
   // final String imagePath;
@@ -53,11 +52,6 @@ class ProductIcon extends StatelessWidget {
                         )
                 ],
               ),
-            ).ripple(
-              () {
-                onSelected(model);
-              },
-              borderRadius: BorderRadius.all(Radius.circular(10)),
             ),
           );
   }

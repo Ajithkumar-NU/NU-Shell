@@ -1,11 +1,10 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-
-import '../model/data.dart';
-import '../themes/light_color.dart';
-import '../themes/theme.dart';
-import '../widgets/product_icon.dart';
-import '../widgets/product_card.dart';
+import 'package:nu_shell/model/data.dart';
+import 'package:nu_shell/themes/light_color.dart';
+import 'package:nu_shell/themes/theme.dart';
+import 'package:nu_shell/widgets/product_card.dart';
+import 'package:nu_shell/widgets/product_icon.dart';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
@@ -112,8 +111,8 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
           ),
-          // SizedBox(width: 20),
-          // _icon(Icons.filter_list, color: Colors.black54)
+          SizedBox(width: 20),
+          _icon(Icons.filter_list, color: Colors.black54)
         ],
       ),
     );

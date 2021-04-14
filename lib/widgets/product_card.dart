@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:nu_shell/model/product.dart';
+import 'package:nu_shell/themes/light_color.dart';
 
-import '../model/product.dart';
-import '../themes/light_color.dart';
-import '../widgets/title_text.dart';
-import '../widgets/extentions.dart';
+import 'title_text.dart';
 
 class ProductCard extends StatelessWidget {
   final Product product;
@@ -85,10 +84,7 @@ class ProductCard extends StatelessWidget {
             ),
           ],
         ),
-      ).ripple(() {
-        Navigator.of(context).pushNamed('/detail');
-        onSelected(product);
-      }, borderRadius: BorderRadius.all(Radius.circular(20))),
+      ),
     );
   }
 }

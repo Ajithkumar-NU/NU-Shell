@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-
-import '../model/data.dart';
-import '../model/product.dart';
-import '../themes/light_color.dart';
-import '../themes/theme.dart';
-import '../widgets/title_text.dart';
+import 'package:nu_shell/model/data.dart';
+import 'package:nu_shell/model/product.dart';
+import 'package:nu_shell/themes/light_color.dart';
+import 'package:nu_shell/themes/theme.dart';
+import 'package:nu_shell/widgets/title_text.dart';
 
 class ShoppingCartPage extends StatelessWidget {
   const ShoppingCartPage({Key key}) : super(key: key);
