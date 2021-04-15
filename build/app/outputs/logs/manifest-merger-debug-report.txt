@@ -6,7 +6,6 @@ INJECTED from C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_she
 INJECTED from C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from [:firebase_auth] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:path_provider] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_core] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\KARTHIKEYA\.gradle\caches\transforms-2\files-2.1\61cfe042a6ae1ddcd914c59f93164671\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\KARTHIKEYA\.gradle\caches\transforms-2\files-2.1\9e68fd8baebf77ff97e728ff6b953065\firebase-analytics-ktx-18.0.3\AndroidManifest.xml:2:1-17:12
@@ -179,8 +178,6 @@ INJECTED from C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_she
 INJECTED from C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\android\app\src\main\AndroidManifest.xml
 MERGED from [:firebase_auth] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_auth] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] C:\Users\KARTHIKEYA\UN NAMMED\Visual Studio Projects\Others\nu_shell\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\KARTHIKEYA\.gradle\caches\transforms-2\files-2.1\61cfe042a6ae1ddcd914c59f93164671\multidex-2.0.0\AndroidManifest.xml:20:5-43
